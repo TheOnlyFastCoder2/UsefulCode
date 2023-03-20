@@ -1,13 +1,7 @@
-
 from docx import Document
-
-
 import lib
 
-
-
 doc = Document()
-
 
 lib.add_heading('sdfsdf', doc)
 lib.add_paragraph('sd333333333', doc)
